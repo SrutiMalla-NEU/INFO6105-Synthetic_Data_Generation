@@ -136,4 +136,3 @@ Model outputs are saved in:
 ## Citation
 
 An, S., & Jeon, J. (2023). Distributional Learning of Variational AutoEncoder: Application to Synthetic Data Generation. NeurIPS 2023.
-Would you like me to show that too? 🎨 (makes the top part look fancy)
